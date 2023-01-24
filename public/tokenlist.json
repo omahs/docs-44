@@ -389,6 +389,14 @@
       "symbol": "fBOMB",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/fBOMB.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xDeBa4568ff4CC84B420bcbFb228De5b7F2807a5c",
+      "name": "Champion",
+      "symbol": "CHAM",
+      "decimals": 18,
+      "logoURI": "https://nightride.velodrome.finance/tokens/CHAM.png"
     }
   ]
 }
