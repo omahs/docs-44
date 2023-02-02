@@ -405,6 +405,14 @@
       "symbol": "frxETH",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/frxETH.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "name": "Binance-Peg BUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/BUSD.svg"
     }
   ]
 }
