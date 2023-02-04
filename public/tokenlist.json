@@ -413,6 +413,14 @@
       "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/BUSD.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xd652776dE7Ad802be5EC7beBfafdA37600222B48",
+      "name": "SoliMax",
+      "symbol": "SLM",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/SLM.png"
     }
   ]
 }
