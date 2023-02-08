@@ -423,6 +423,14 @@
       "logoURI": "https://docs.velodrome.finance/tokens/SLM.png",
       "nativeChainAddress": "0x39263A476aADF768BE43a99b24C4e461098524a4",
       "nativeChainId": 250
+    },
+    {
+      "chainId": 10,
+      "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
+      "name": "Staked Frax Ether",
+      "symbol": "sfrxETH",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/sfrxETH.jpg"
     }
   ]
 }
