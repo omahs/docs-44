@@ -420,7 +420,9 @@
       "name": "SoliMax",
       "symbol": "SLM",
       "decimals": 18,
-      "logoURI": "https://docs.velodrome.finance/tokens/SLM.png"
+      "logoURI": "https://docs.velodrome.finance/tokens/SLM.png",
+      "nativeChainAddress": "0x39263A476aADF768BE43a99b24C4e461098524a4",
+      "nativeChainId": 250
     }
   ]
 }
